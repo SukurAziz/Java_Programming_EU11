@@ -17,7 +17,7 @@ file: store data
 			text file  					.txt
 			PDF files					.pdf
 			Pictures					.jpg, .png etc
-			word document				.doc
+			word document				        .doc
 			excel files					.xlx
 			power point					.ppt
 
